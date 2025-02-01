@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Akki-dnd/wed-desing/tree/main">
-    <img src="https://github.com/Akki-dnd/wed-desing/blob/main/assets/images/9k.png" alt="Logo" width="125" height="125">
+    <img src="https://github.com/Akki-dnd/Akki-dnd/blob/main/9k.png" alt="Logo" width="125" height="125">
   </a>
 </h1>
 
@@ -28,7 +28,7 @@
     Website Previews -
 <br />
 <br />
-    <img src="https://github.com/Akki-dnd/wed-desing/blob/main/assets/images/Dark.png" alt="Dark_mode">
-    <img src="https://github.com/Akki-dnd/wed-desing/blob/main/assets/images/Light.png" alt="Light_mode">
-    <img src="https://github.com/Akki-dnd/wed-desing/blob/main/assets/images/bill.png" alt="hosting">
+    <img src="https://github.com/Akki-dnd/Akki-dnd/blob/main/Dark.png" alt="Dark_mode">
+    <img src="https://github.com/Akki-dnd/Akki-dnd/blob/main/Light.png" alt="Light_mode">
+    <img src="https://github.com/Akki-dnd/Akki-dnd/blob/main/bill.png" alt="hosting">
 </div>
